@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/block-library-sandbox/:/",
+    "/content/block-library-sandbox/configuration:/.helix/config.json",
+    "/content/block-library-sandbox/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/block-library-sandbox/"
   ]
 }
